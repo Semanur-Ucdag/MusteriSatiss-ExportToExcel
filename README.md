@@ -1,5 +1,5 @@
 # MusteriSatiss
-- Bu prjoemde staj yaptıüım yere uygun müsteri satış masaüstü uygulaması geliştirdim.
+- Bu prjoemde staj yaptığım yere uygun müsteri satış masaüstü uygulaması geliştirdim.
   
 -  Ven veritabanı bağlantılı ayrıca yaptığımız satışları raporlamak için Excel'e Aktar butonu oluşturdum.
 
